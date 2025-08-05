@@ -58,21 +58,21 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   function consultarCPF(cpf) {
-    // Simulação de dados do usuário (funciona sem API externa)
-    const userData = {
-      nome: "Usuário",
-      nome_mae: "Mãe",
+    // Simulação de dados
+    const nomeFicticio = "Usuário";
+    const nomeMaeFicticio = "Mãe";
+
+    localStorage.setItem("userData", JSON.stringify({
+      nome: nomeFicticio,
+      nome_mae: nomeMaeFicticio,
       cpf: cpf
-    };
+    }));
 
-    // Salvar dados no localStorage
-    localStorage.setItem("userData", JSON.stringify(userData));
-    loadingMessage.textContent = `Olá, ${userData.nome}!`;
+    loadingMessage.textContent = `Olá, Usuário!`;
 
-    // Redirecionar para o dashboard após 2 segundos
     setTimeout(() => {
       const currentParams = window.location.search;
-      const baseUrl = "./dash/index.htm";
+      const baseUrl = "./dash";
       const finalUrl = currentParams
         ? `${baseUrl}${baseUrl.includes("?") ? "&" : "?"}${currentParams.slice(1)}`
         : baseUrl;

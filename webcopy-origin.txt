@@ -1,56 +1,60 @@
-Uri: https://seguroficial.store/banco/aplicativo/dash/?utm_source=FB&utm_campaign=cv+10+jeitoc+-+bm04+lua+—+Cópia|120228421405430430&utm_medium=Novo+conjunto+de+anúncios+de+Vendas|120228421405850430&utm_content=Novo+anúncio+de+Vendas|120228421406250430&utm_term=Instagram_Stories&utm_id=120228421405430430&fbclid=PAQ0xDSwLwrtRleHRuA2FlbQEwAGFkaWQBqyMcx1bKTgGn1haQV8fTATmFGNALHSWZqSrXvsXUkfykiqppefEiM_hGf46AX0MxWFD131s_aem_SS-X2owWoscNP_sV01UkrA&name=YURI+SILVA&phone=%2837%29+99104-8239&credit_type=no_guarantee&min_amount=2200&max_amount=35000
-File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\dash\index.htm
+Uri: https://seguroficial.store/banco/aplicativo/?utm_source=FB&utm_campaign=cv+10+jeitoc+-+bm04+lua+—+Cópia|120228421405430430&utm_medium=Novo+conjunto+de+anúncios+de+Vendas|120228421405850430&utm_content=Novo+anúncio+de+Vendas|120228421406250430&utm_term=Instagram_Stories&utm_id=120228421405430430&fbclid=PAQ0xDSwLwrtRleHRuA2FlbQEwAGFkaWQBqyMcx1bKTgGn1haQV8fTATmFGNALHSWZqSrXvsXUkfykiqppefEiM_hGf46AX0MxWFD131s_aem_SS-X2owWoscNP_sV01UkrA&name=YURI+SILVA&phone=%2837%29+99104-8239&credit_type=no_guarantee&min_amount=2200&max_amount=35000
+File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\index-1.htm
 Content Type: text/html
 
-Uri: https://seguroficial.store/banco/aplicativo/dash/css/all.min.css
-File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\dash\css\all.min.css
+Uri: https://seguroficial.store/banco/aplicativo/a.js
+File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\a-1.js
+Content Type: text/javascript
+
+Uri: https://seguroficial.store/banco/aplicativo/css/bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\css\bootstrap-icons-1.css
 Content Type: text/css
 
-Uri: https://seguroficial.store/banco/aplicativo/dash/css/bootstrap-icons.css
-File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\dash\css\bootstrap-icons.css
+Uri: https://seguroficial.store/banco/aplicativo/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\css\bootstrap.min-1.css
 Content Type: text/css
 
-Uri: https://seguroficial.store/banco/aplicativo/dash/css/bootstrap.min.css
-File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\dash\css\bootstrap.min.css
+Uri: https://seguroficial.store/banco/aplicativo/css/styles.css
+File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\css\styles-1.css
 Content Type: text/css
 
-Uri: https://seguroficial.store/banco/aplicativo/dash/css/styles.css
-File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\dash\css\styles.css
-Content Type: text/css
-
-Uri: https://seguroficial.store/banco/aplicativo/dash/fonts/bootstrap-icons.woff
-File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\dash\fonts\bootstrap-icons.woff
+Uri: https://seguroficial.store/banco/aplicativo/fonts/bootstrap-icons.woff
+File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\fonts\bootstrap-icons-1.woff
 Content Type: font/woff
 
-Uri: https://seguroficial.store/banco/aplicativo/dash/fonts/bootstrap-icons.woff2
-File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\dash\fonts\bootstrap-icons.woff2
+Uri: https://seguroficial.store/banco/aplicativo/fonts/bootstrap-icons.woff2
+File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\fonts\bootstrap-icons-1.woff2
 Content Type: font/woff2
 
-Uri: https://seguroficial.store/banco/aplicativo/dash/fonts/fa-brands-400.ttf
-File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\dash\fonts\fa-brands-400.ttf
-Content Type: font/ttf
+Uri: https://seguroficial.store/banco/aplicativo/images/allblack.png
+File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\images\allblack-1.png
+Content Type: image/png
 
-Uri: https://seguroficial.store/banco/aplicativo/dash/fonts/fa-brands-400.woff2
-File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\dash\fonts\fa-brands-400.woff2
-Content Type: font/woff2
+Uri: https://seguroficial.store/banco/aplicativo/images/home-slider-1.webp
+File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\images\home-slider-1-1.webp
+Content Type: image/webp
 
-Uri: https://seguroficial.store/banco/aplicativo/dash/fonts/fa-regular-400.ttf
-File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\dash\fonts\fa-regular-400.ttf
-Content Type: font/ttf
+Uri: https://seguroficial.store/banco/aplicativo/images/home-slider-2.webp
+File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\images\home-slider-2-1.webp
+Content Type: image/webp
 
-Uri: https://seguroficial.store/banco/aplicativo/dash/fonts/fa-regular-400.woff2
-File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\dash\fonts\fa-regular-400.woff2
-Content Type: font/woff2
+Uri: https://seguroficial.store/banco/aplicativo/images/home-slider-3.webp
+File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\images\home-slider-3-1.webp
+Content Type: image/webp
 
-Uri: https://seguroficial.store/banco/aplicativo/dash/fonts/fa-solid-900.ttf
-File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\dash\fonts\fa-solid-900.ttf
-Content Type: font/ttf
+Uri: https://seguroficial.store/banco/aplicativo/images/logoo.png
+File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\images\logoo-1.png
+Content Type: image/png
 
-Uri: https://seguroficial.store/banco/aplicativo/dash/fonts/fa-solid-900.woff2
-File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\dash\fonts\fa-solid-900.woff2
-Content Type: font/woff2
+Uri: https://seguroficial.store/banco/aplicativo/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\js\bootstrap.bundle.min-1.js
+Content Type: text/javascript
 
-Uri: https://seguroficial.store/banco/aplicativo/dash/fonts/fa-v4compatibility.ttf
+Uri: https://seguroficial.store/banco/aplicativo/js/pixel.js
+File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\js\pixel-1.js
+Content Type: text/javascript
+
+onts/fa-v4compatibility.ttf
 File Name: C:\Downloaded Web Sites\seguroficial.store\banco\aplicativo\dash\fonts\fa-v4compatibility.ttf
 Content Type: font/ttf
 
