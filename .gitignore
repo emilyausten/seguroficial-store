@@ -1,0 +1,19 @@
+# Arquivos de sistema 
+.DS_Store 
+Thumbs.db 
+desktop.ini 
+ 
+# Logs 
+*.log 
+ 
+# Arquivos tempor rios 
+*.tmp 
+*.temp 
+*.bak 
+*.backup 
+ 
+# IDEs 
+.vscode/ 
+.idea/ 
+ 
+# Cache 
